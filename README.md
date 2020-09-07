@@ -3,7 +3,7 @@
 This repository contains the files with the R codes of all computations included in the Bachelor Thesis. Specifically, you will find:
 (1) an event study on indices,
 (2) an event study on airline companies,
-(3) a generla analysis of historical volatility,
+(3) a general analysis of historical volatility,
 (4) the computation of Risk Neutral Densities for the analyzed indices (with summary statistics),
 (5) the computation of Risk Neutral Densities for airline companies (with summary statistics).
 
