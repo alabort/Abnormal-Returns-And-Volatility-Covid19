@@ -9,6 +9,3 @@ This repository contains the files with the R codes of all computations included
 (3) a general analysis of historical volatility,
 (4) the computation of Risk Neutral Densities for the analyzed indices (with summary statistics),
 (5) the computation of Risk Neutral Densities for airline companies (with summary statistics).
-
-The rar file has been compressed and encrypted and the password is UNIBZ2020. 
-
